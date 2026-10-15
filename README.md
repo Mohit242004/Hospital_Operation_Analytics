@@ -40,33 +40,6 @@ This project uses SQL queries to explore these operational patterns and support 
 
 ---
 
-## 📂 Project Structure
-
-Suggested GitHub repository structure:
-
-```text
-📁 Hospital-Operations-Analytics
-│
-├── sql/
-│   ├── schema.sql
-│   └── analysis_queries.sql
-├── data/
-│   ├── patients.csv
-│   ├── appointments.csv
-│   ├── doctors.csv
-│   ├── rooms.csv
-│   └── treatments.csv
-├── diagrams/
-│   └── er_diagram.png
-├── presentation/
-│   └── Hospital_Operation_Analytics.pptx
-└── README.md
-```
-
-*Note: This is a suggested structure. Include only files that are actually available in your GitHub repository.*
-
----
-
 ## 🗄️ Database Overview
 
 The project uses a database named `hospital_analytics` with **5 relational tables**.
